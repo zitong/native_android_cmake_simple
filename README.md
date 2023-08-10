@@ -1,0 +1,1 @@
+# native_android_cmake_simple
